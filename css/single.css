@@ -1,0 +1,88 @@
+.single__text {
+	padding-bottom: 5px;
+	clear: both;
+}
+
+.single__text img.alignleft {
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+
+.single__text img.alignright {
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+.single__text p {
+	font-size: 16px;
+	line-height: 1.5;
+	color: #fff;
+	padding-bottom: 25px;
+}
+
+.single__text h1 {
+	font-size: 24px;
+}
+
+.single__text h2 {
+	font-size: 20px;
+}
+
+.single__text h3 {
+	font-size: 16px;
+}
+
+.single__text h4,
+.single__text h5,
+.single__text h5 {
+	font-size: 14px;
+}
+
+.single__text h1,
+.single__text h2,
+.single__text h3,
+.single__text h4,
+.single__text h5,
+.single__text h5 {
+	color: #fff;
+	margin: 10px 0;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.single__text ul,
+.single__text ol {
+	margin: 1em 0;
+}
+
+.single__text ul li,
+.single__text ol li {
+	color: #fff;
+	padding-bottom: 5px;
+}
+
+.single__text a {
+	color: #e17358;
+	-webkit-transition: 0.3s color;
+	-o-transition: 0.3s color;
+	transition: 0.3s color;
+	padding-bottom: 10px;
+}
+
+.single__text a:hover {
+	text-decoration: underline;
+}
+
+.error {
+	padding: 50px 20px;
+}
+
+.error__text p {
+	font-size: 27px;
+	line-height: 1.2;
+	color: #fff;
+	text-align: center;
+}
+
